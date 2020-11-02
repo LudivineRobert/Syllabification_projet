@@ -1,4 +1,4 @@
-# Phonétique - projet de syllabification
+# Phonétique - Projet de Syllabification
 
 ## Objectif
 Script python qui convertit les mots du français sous leur forme syllabique.
